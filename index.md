@@ -1,3 +1,5 @@
-# Markdown Version
+# Jody Byrd Online @ Github
 
-Hellow world. welcome to my markdown version.
+Game Books:
+- [Stellar Endeavors](/StellarEndeavors/)
+- [Ruined Empire](/RuinedEmpire/)
